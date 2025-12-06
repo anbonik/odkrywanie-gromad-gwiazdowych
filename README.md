@@ -1,1 +1,2 @@
-# odkrywanie-gromad-gwiazdowych
+# Odkyrwanie gromad gwiezdnych
+
